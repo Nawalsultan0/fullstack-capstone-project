@@ -4,9 +4,9 @@ const express = require('express');
 const cors = require('cors');
 const connectToDatabase = require('./db');
 
-const giftRoutes = require('./routes/giftRoutes');
-const searchRoutes = require('./routes/searchRoutes');
-const authRoutes = require('./routes/authRoutes');
+const giftRoutes = require('./api/giftRoutes');
+const searchRoutes = require('./api/searchRoutes');
+const authRoutes = require('./api/authRoutes');
 
 const app = express();
 app.use(cors());
