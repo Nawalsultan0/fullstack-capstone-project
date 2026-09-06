@@ -8,7 +8,7 @@ const connectToDatabase = require('../db');
 
 const JWT_SECRET = process.env.JWT_SECRET || 'change_this_secret';
 
-// POST /api/auth/register
+// POST /api/auth/registers
 router.post('/register', async (req, res, next) => {
   try {
     const db = await connectToDatabase();
