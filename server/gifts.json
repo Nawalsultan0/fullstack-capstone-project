@@ -1,0 +1,18 @@
+[
+  {"id":"1","name":"Wooden Bookshelf","category":"furniture","condition":"good","age_years":3,"description":"Sturdy 5-shelf wooden bookshelf.","date_added":1691234000},
+  {"id":"2","name":"Blender","category":"kitchen","condition":"like new","age_years":1,"description":"700W countertop blender, barely used.","date_added":1691234100},
+  {"id":"3","name":"Kids Bicycle","category":"sports","condition":"fair","age_years":4,"description":"16-inch bike, good for ages 4-6.","date_added":1691234200},
+  {"id":"4","name":"Office Chair","category":"furniture","condition":"good","age_years":2,"description":"Ergonomic mesh-back office chair.","date_added":1691234300},
+  {"id":"5","name":"Coffee Table","category":"furniture","condition":"fair","age_years":5,"description":"Small glass-top coffee table.","date_added":1691234400},
+  {"id":"6","name":"Toaster Oven","category":"kitchen","condition":"good","age_years":2,"description":"4-slice toaster oven, works great.","date_added":1691234500},
+  {"id":"7","name":"Yoga Mat","category":"sports","condition":"like new","age_years":1,"description":"6mm thick non-slip yoga mat.","date_added":1691234600},
+  {"id":"8","name":"Desk Lamp","category":"electronics","condition":"good","age_years":2,"description":"LED desk lamp with adjustable brightness.","date_added":1691234700},
+  {"id":"9","name":"Board Game Set","category":"toys","condition":"good","age_years":3,"description":"Bundle of 5 classic board games.","date_added":1691234800},
+  {"id":"10","name":"Winter Jacket","category":"clothing","condition":"like new","age_years":1,"description":"Men's medium insulated winter jacket.","date_added":1691234900},
+  {"id":"11","name":"Dining Table Set","category":"furniture","condition":"fair","age_years":6,"description":"4-chair dining set, minor scratches.","date_added":1691235000},
+  {"id":"12","name":"Microwave","category":"kitchen","condition":"good","age_years":3,"description":"900W microwave, fully functional.","date_added":1691235100},
+  {"id":"13","name":"Tennis Racket","category":"sports","condition":"good","age_years":2,"description":"Adult tennis racket with case.","date_added":1691235200},
+  {"id":"14","name":"Bluetooth Speaker","category":"electronics","condition":"like new","age_years":1,"description":"Portable waterproof speaker.","date_added":1691235300},
+  {"id":"15","name":"Puzzle Set","category":"toys","condition":"good","age_years":2,"description":"1000-piece puzzle, all pieces included.","date_added":1691235400},
+  {"id":"16","name":"Bookcase Ladder Shelf","category":"furniture","condition":"good","age_years":4,"description":"5-tier ladder-style bookshelf.","date_added":1691235500}
+]
